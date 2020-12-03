@@ -1,2 +1,2 @@
-# advent-of-code-2020
-python solutions for aoc2020
+# Advent of Code 2020
+My first year trying out [Advent of Code!](https://adventofcode.com/2020) Solutions will be in Python. 🎄
